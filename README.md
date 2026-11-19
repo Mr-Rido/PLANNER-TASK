@@ -1,3 +1,4 @@
+
 # 🚀 Student Task Planner
 
 > **Creative Futuristic — Dark Productivity Interface**  
@@ -123,3 +124,4 @@ plannertask/
 - **Accents**: Electric Purple `#8b5cf6`, Soft Cyan `#38bdf8`, Emerald `#10b981`, Rose `#f43f5e`, Amber `#f59e0b`.
 - **Glassmorphism**: `backdrop-blur-md` dengan border semi-transparan `rgba(255, 255, 255, 0.08)`.
 - **Typography & Interaction**: Micro-interactions dengan Framer Motion (*hover lift, tap feedback, fade and scale spring modals*).
+
